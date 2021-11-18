@@ -11,20 +11,6 @@ Cabal was founded on the principles of
 
 Currently, our Discord server is the latest iteration of cabal. It is the homebase for our community of hackers, programmers, lawyers, librarians, anthropologists, journalists, soldiers, spooks, et. al. who all believe that we can combat the misuse and abuse of technology.
 
-# When to use the #general channel
-
-most of the chat happens in #general-and-banter. It’s okay to mute it! Critical updates will be posted in the #announcements channel.
-
-# How to mute a channel!
-
-So Discord’s default subscription is ~Notifications On~ for every channel (unless your device’s notifications have blocked all Discord notifications completely). Since cabal’s channels are broken out by topic, go ahead and mute things you aren’t as interested in! The channels will always be there should you wanna check it out later.
-
-
-
-![img](file:///tmp/lu135736p4nfo.tmp/lu135736p4ng0_tmp_7320fc796d395d06.png)
-
-
-
 # Rules of the Road
 
 - ​	There will be absolutely no fucking bigotry tolerated in this space.
