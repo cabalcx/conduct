@@ -1,14 +1,15 @@
+# About Cabal
 
-# What is cabal?
+The overarching mission for Cabal [a.k.a LaBac] is to **fight dystopia**.
 
-Cabal’s overarching mission is to fight dystopia. The group was founded on the principles of 
+Cabal was founded on the principles of 
 
 - ​	free software
 - ​	safe spaces
 - ​	shared information, and ultimately:
 - ​	shifting technology forward to better protect the underprivileged and underserved.
 
-The discord server is the latest iteration of cabal. It is the homebase for our community of hackers, programmers, lawyers, librarians, anthropologists, journalists, soldiers, spooks, et. al. who all believe that we can combat the misuse and abuse of technology with actions overt and covert.
+Currently, our Discord server is the latest iteration of cabal. It is the homebase for our community of hackers, programmers, lawyers, librarians, anthropologists, journalists, soldiers, spooks, et. al. who all believe that we can combat the misuse and abuse of technology.
 
 # When to use the #general channel
 
