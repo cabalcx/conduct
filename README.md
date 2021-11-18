@@ -12,34 +12,22 @@ Cabal was founded on the principles of
 Currently, our Discord server is the latest iteration of cabal. It is the homebase for our community of hackers, programmers, lawyers, librarians, anthropologists, journalists, soldiers, spooks, et. al. who all believe that we can combat the misuse and abuse of technology.
 
 # Rules of the Road
-
-- ​	There will be absolutely no fucking bigotry tolerated in this space.
-- ​	Treat other members with respect.  
-- ​	Engage in good faith.
-
-
-
-- ​	Act with consent.
-- ​	Seek permission, not forgiveness.
-- ​	Try to resolve conflict in a mature and mutually acceptable manner.
-- ​	If you ever feel that there has been a violation, please involve an Admin and we will work it out!
-
-
-
-- ​	What is said in this chat stays in this chat. It does not matter if disclosure was intentional or unintentional.
-- ​	Please, no forwarding or screenshots.
-- ​	If the party/parties involved have all given consent, then exfiltration may be settled on a case-by-case basis.
-
-
-
-- ​	Admins take on the role of moderators for the group.
-- ​	Admin tasks may include tasks like organizing content, structuring a conversation, and inviting new members.
-- ​	Admins are appointed via a plurality vote by all members. There should always be at least 3 at one time.
-
-
-
-- ​	Most decisions can be brought to a vote with a quorum of at least half the chat membership.
-- ​	Decisions may pass with a simple plurality; Bans and suspensions of members require a majority.
+- **Be kind**
+  - ​Zero tolerance for bigotry and prejudice.
+  - Treat other members with respect and empathy.  
+  - Engage in good faith.
+- **Consensual Communications**
+  - Act with consent.
+  - Seek permission, not forgiveness.
+  - What is said in this chat stays in this chat. It does not matter if disclosure was intentional or unintentional.
+  - Please, no forwarding or screenshots.
+  - If the party/parties involved have all given consent, then exfiltration may be settled on a case-by-case basis.
+- **Administration**
+  - Admins take on the role of moderators for the group.
+  - Admin tasks may include tasks like organizing content, structuring a conversation, and inviting new members.
+  - Admins are appointed via a plurality vote by all members. There should always be at least 3 at one time.
+  - Most decisions can be brought to a vote with a quorum of at least half the chat membership.
+  - Decisions may pass with a simple plurality; Bans and suspensions of members require a majority.
 
 # How to hangout on discord
 
