@@ -36,46 +36,30 @@ Sometimes it helps by providing context about the person (i know them from ...  
 
 # Brief history of Cabal
 
-it is legally foolish and intellectually questionable to dub cabal a "hacker group" .
+cabal started as a Signal group chat of friends who hacked stuff and wanted a better future for each other. We wanted a safe space where we could more freely share things without the toxicity we felt existed in existing tech and security meetups.
 
-cabal started as a signal group chat of friends who hacked stuff and wanted a better future for each other.
+Today the point is to be a community for each other, but also to be a resource to the community. 
 
-
-
-The group started because there were too many asshats showing up to hacker meetups like NYSEC. our group transitioned to be a bit more operative, on issues we cared about, namely r*v*nge porn, stalking, and "cyber sexual abuse". obviously it has expanded in scope, and in membership; at its peak we have had 55 members join our ranks.
-
-
-
-today the point is to be a community for each other, but also to be a resource to the community. our cohorts at the NY Cyber Sexual Abuse taskforce are technically informed lawyers, but are always so, so appreciative of the perspective we bring there on how cybercrimez and crimnalz are done.
-
-
-
-the biggest initiatives we have now are:
-
-- ​	supporting cyber sexual abuse survivors
+The biggest initiatives we have now are:
+- ​supporting cyber sexual abuse survivors
+- serving on the [New York Cyber Sexual Abuse Taskforce](https://cyberabuse.nyc/)
 - ​	tracking hate groups, their infrastructure, and their behavior online
 - ​	compiling a record of notable incidents and artifacts that document technology's abuses
-- ​	clowning on false thought leaders and decimating gatekeepers
+- ​	managing a shared library of resources, job postings, and technology
 
-
-
-Some of our wins in the past year or so:
-
-
-
-- ​	Combatting cyber sexual abuse
-  - ​		Dozens of successful takedown 	requests
-  - ​		Assistance to sex workers on the 	protection of their copyrighted material
-  - ​		Security incident response to 4 	severe cases of abuse
-  - ​		Technical subject matter expertise 	supporting the NYC Cyber Sexual Abuse Taskforce
-  - ​		Research and monitoring into 	distribution sites and forums
-- ​	Racial, economic, and social justice activism
-  - ​		Our group development of 	submit.policetapes.live, which has archived thousands of videos 	documenting police brutality around the USA
-  - ​		Creation of our VPN services, which 	have protected dozens of activists and journalists through the 	summer
-  - ​		Distribution of thousands of PPE kits 	during NYC protests
-  - ​		 Secure communications assistance for 	5 major protest organizers in NYC
-  - ​		Secure communications for protestors 	in Cuba
-- ​	Press coverage of our doingz:
+A selection of accomplishments:
+- Dozens of successful takedown requests
+- Assistance to sex workers on the protection of their copyrighted material
+- Security incident response to dozens of severe abuse cases
+- Technical subject matter expertise supporting the NYC Cyber Sexual Abuse Taskforce
+- Research and monitoring into distribution sites and forums
+- The development of [chanscan](https://chanscan.com), a tool for understanding toxic internet culture
+- The development of submit.policetapes.live, which has archived thousands of videos documenting police brutality around the USA
+- Creation of our VPN services, which have protected dozens of activists and journalists through the summer of 2020
+- Distribution of thousands of PPE kits 	during NYC protests
+- Secure communications assistance for 	5 major protest organizers in NYC
+- Secure communications for protestors 	in Cuba
+- ​Press coverage:
   - ​		Clearview AI (NYTimes, Gizmodo)
   - ​		Phunware (Vice News)
   - ​		Tinder photo market place (Gizmodo)
