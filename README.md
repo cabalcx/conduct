@@ -28,11 +28,6 @@ Currently, our Discord server is the latest iteration of cabal. It is the homeba
   - Most decisions can be brought to a vote with a quorum of at least half the chat membership.
   - Decisions may pass with a simple plurality; Bans and suspensions of members require a majority.
 
-
-# Use the bots!
-
-Additional help can be found from our friendly bots @cabalbot and @gastonbot , as well of the admins of the month. try talking to @cabalbot in a DM, or in a channel! DM the bot help or use @cabalbot help in a channel.
-
 # Inviting new friends
 
 Notify in #general-and-banter that you'd like to invite someone, which starts a request for comments period. This period is typically enough time for people to see your post and send whatever comments they need (12-24 hours). Sometimes it helps by providing context about the person (i know them from ...  or here is their twitter ...). If no objections are raised, you are clear to invite them in!
