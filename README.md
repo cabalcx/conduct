@@ -1,5 +1,4 @@
 # About Cabal
-
 The overarching mission for Cabal [a.k.a LaBac] is to **fight dystopia**.
 
 Cabal was founded on the principles of 
@@ -29,9 +28,6 @@ Currently, our Discord server is the latest iteration of cabal. It is the homeba
   - Most decisions can be brought to a vote with a quorum of at least half the chat membership.
   - Decisions may pass with a simple plurality; Bans and suspensions of members require a majority.
 
-# How to hangout on discord
-
-Use the sidebar on the left to find a topic you're interested in. Join the voice channels to hangout with other members! It's a great way to collab and riff off each other. Try to stay on topic, and if the channel topic doesn't make sense, resort to #general-and-banter 
 
 # Use the bots!
 
