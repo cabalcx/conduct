@@ -30,13 +30,13 @@ Currently, our Discord server is the latest iteration of cabal. It is the homeba
 
 # Inviting new friends
 
-Notify in #general-and-banter that you'd like to invite someone, which starts a request for comments period. This period is typically enough time for people to see your post and send whatever comments they need (12-24 hours). Sometimes it helps by providing context about the person (i know them from ...  or here is their twitter ...). If no objections are raised, you are clear to invite them in!
+Notify in #nominations that you'd like to invite someone, which starts a request for comments period. This period is typically enough time for people to see your post and send whatever comments they need (3-6 hours). While you wait, please send them a link to this code of conduct.
 
-
+Sometimes it helps by providing context about the person (i know them from ...  or here is their twitter ...). If no objections are raised, you are clear to invite them in!
 
 # Brief history of Cabal
 
-it is legally foolish and intellectually questionable to dub cabal a "hacker group" but whatever.
+it is legally foolish and intellectually questionable to dub cabal a "hacker group" .
 
 cabal started as a signal group chat of friends who hacked stuff and wanted a better future for each other.
 
