@@ -64,6 +64,8 @@ A selection of accomplishments:
   - ​		Phunware (Vice News)
   - ​		Tinder photo market place (Gizmodo)
 - ​	Conferences and Speaking Engagements
+  -     SkyTalks 2023 @ DEFCON 30
+  -     REcon 2022
   - ​		PancakesCon 2021
   - ​		Summercon 2020
   - ​		Diana Initiative
