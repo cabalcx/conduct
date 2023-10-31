@@ -1,5 +1,5 @@
 # About Cabal
-The overarching mission for Cabal [a.k.a LaBac] is to **fight dystopia**.
+The principal mission for Cabal [a.k.a LaBac] is to **fight dystopia**.
 
 Cabal was founded on the principles of 
 
@@ -34,38 +34,54 @@ Notify in #nominations that you'd like to invite someone, which starts a request
 
 Sometimes it helps by providing context about the person (i know them from ...  or here is their twitter ...). If no objections are raised, you are clear to invite them in!
 
+# What you get by joining the Cabal
+
+- a global professional network of folks who understand the importance ethics in technology
+- a safe space to discuss your work and ideas
+- a place to ask questions and get answers
+
 # Brief history of Cabal
 
 cabal started as a Signal group chat of friends who hacked stuff and wanted a better future for each other. We wanted a safe space where we could more freely share things without the toxicity we felt existed in existing tech and security meetups.
 
-Today the point is to be a community for each other, but also to be a resource to the community. 
+Today we continue to be a community for each other, but also to be a resource to the community. 
 
-The biggest initiatives we have now are:
+The our most active initiatives currently are:
 - ​supporting cyber sexual abuse survivors
-- serving on the [New York Cyber Sexual Abuse Taskforce](https://cyberabuse.nyc/)
-- ​	tracking hate groups, their infrastructure, and their behavior online
-- ​	compiling a record of notable incidents and artifacts that document technology's abuses
-- ​	managing a shared library of resources, job postings, and technology
+- serving on the [New York Cyber Abuse Taskforce](https://cyberabuse.nyc/)
+- ​tracking hate groups, their infrastructure, and their behavior online
+- ​compiling a record of notable incidents and artifacts that document technology's abuses
+- ​managing a shared library of resources, job postings, and technology
+- archiving important material and evidence for later use by researchers
 
 A selection of accomplishments:
-- Dozens of successful takedown requests
+- Dozens of successful takedown requests of non consensual imagery operations
 - Assistance to sex workers on the protection of their copyrighted material
 - Security incident response to dozens of severe abuse cases
-- Technical subject matter expertise supporting the NYC Cyber Sexual Abuse Taskforce
+- Technical subject matter expertise supporting the NYC Cyber Abuse Taskforce
+- The development of the Non-Consensual Imagery Database (NCIDB)
 - Research and monitoring into distribution sites and forums
 - The development of [chanscan](https://chanscan.com), a tool for understanding toxic internet culture
 - The development of submit.policetapes.live, which has archived thousands of videos documenting police brutality around the USA
-- Creation of our VPN services, which have protected dozens of activists and journalists through the summer of 2020
-- Distribution of thousands of PPE kits 	during NYC protests
-- Secure communications assistance for 	5 major protest organizers in NYC
-- Secure communications for protestors 	in Cuba
+- Creation of our VPN services, which have protected:
+  - activists and journalists through the summer of 2020
+  - protestors in Cuba
+  - protestors in Venezuela
+- Distribution of thousands of PPE kits during NYC protests in 2020
+- Secure communications assistance for 5 major protest organizers in NYC
 - ​Press coverage:
-  - ​		Clearview AI (NYTimes, Gizmodo)
-  - ​		Phunware (Vice News)
-  - ​		Tinder photo market place (Gizmodo)
-- ​	Conferences and Speaking Engagements
-  -     SkyTalks 2023 @ DEFCON 30
-  -     REcon 2022
-  - ​		PancakesCon 2021
-  - ​		Summercon 2020
-  - ​		Diana Initiative
+  - PimEyes (Washington Post)
+  - Clearview AI (NYTimes, Gizmodo)
+  - Phunware (Vice News)
+  - Tinder photo market place (Gizmodo)
+- ​	Selection of Acknowledgements, Conferences and Speaking Engagements of Cabal Members
+  - Binary Golf Grand Prix 2023
+  - Objective by the Sea 2023
+  - Defcon (31, 30, 29)
+  - Hushcon (2023, 2022)
+  - REcon (2023, 2022)
+  - SkyTalks 2022 @ DEFCON 30
+  - PancakesCon 2021
+  - Summercon (2022, 2021, 2020, 2019)
+  - Diana Initiative
+  - 2600 Magazine
