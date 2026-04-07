@@ -1,87 +1,64 @@
-# About Cabal
-The principal mission for Cabal [a.k.a LaBac] is to **fight dystopia**.
+# Articles of Agreement and Expected Conduct
 
-Cabal was founded on the principles of 
+This document governs all Cabal activities: the Fight Dystopia forum (fightdystopia.net), Signal chats, IRL meetups, and other Cabal-owned venues online or off.
 
-- ​	free software
-- ​	safe spaces
-- ​	shared information, and ultimately:
-- ​	shifting technology forward to better protect the underprivileged and underserved.
+## Philosophy & Values
 
-Currently, our Discord server is the latest iteration of cabal. It is the homebase for our community of hackers, programmers, lawyers, librarians, anthropologists, journalists, soldiers, spooks, et. al. who all believe that we can combat the misuse and abuse of technology.
+1. **Online consent, privacy, equity, and liberty**: These are foundational. Every interaction should reflect them.
 
-# Rules of the Road
-- **Be kind**
-  - ​Zero tolerance for bigotry and prejudice.
-  - Treat other members with respect and empathy.  
-  - Engage in good faith.
-- **Consensual Communications**
-  - Act with consent.
-  - Seek permission, not forgiveness.
-  - What is said in this chat stays in this chat. It does not matter if disclosure was intentional or unintentional.
-  - Please, no forwarding or screenshots.
-  - If the party/parties involved have all given consent, then exfiltration may be settled on a case-by-case basis.
-- **Administration**
-  - Admins take on the role of moderators for the group.
-  - Admin tasks may include tasks like organizing content, structuring a conversation, and inviting new members.
-  - Admins are appointed via a plurality vote by all members. There should always be at least 3 at one time.
-  - Most decisions can be brought to a vote with a quorum of at least half the chat membership.
-  - Decisions may pass with a simple plurality; Bans and suspensions of members require a majority.
+2. **Curiosity and high-signal discussion**: We discuss ethical technology, digital rights, AI safety, open source, surveillance research, and the human side of tech.
 
-# Inviting new friends
+3. **Kindness, support, and respect**: Operate with solidarity and value diverse perspectives.
 
-Notify in #nominations that you'd like to invite someone, which starts a request for comments period. This period is typically enough time for people to see your post and send whatever comments they need (3-6 hours). While you wait, please send them a link to this code of conduct.
+4. **Protecting the underserved**: Cabal's mission is driving technology to better protect those canonically underserved by it.
 
-Sometimes it helps by providing context about the person (i know them from ...  or here is their twitter ...). If no objections are raised, you are clear to invite them in!
+## Tenets
 
-# What you get by joining the Cabal
+- **Garden party, not a debate club**: Collaborative, not adversarial. Share and learn, don't "win" arguments.
 
-- a global professional network of folks who understand the importance ethics in technology
-- a safe space to discuss your work and ideas
-- a place to ask questions and get answers
+- **Reject engagement farming**: No inflammatory content to provoke reactions. No optimization for votes or attention.
 
-# Brief history of Cabal
+- **Invitation means accountability**: Every member was invited by an existing member. Your inviter vouches for you; you vouch for those you invite. Ban records are tracked against inviters.
 
-cabal started as a Signal group chat of friends who hacked stuff and wanted a better future for each other. We wanted a safe space where we could more freely share things without the toxicity we felt existed in existing tech and security meetups.
+- **Transparent governance**: All moderator actions (bans, suspensions, content removals, tag changes) are logged publicly.
 
-Today we continue to be a community for each other, but also to be a resource to the community. 
+## Rules of the Road
 
-The our most active initiatives currently are:
-- ​supporting cyber sexual abuse survivors
-- serving on the [New York Cyber Abuse Taskforce](https://cyberabuse.nyc/)
-- ​tracking hate groups, their infrastructure, and their behavior online
-- ​compiling a record of notable incidents and artifacts that document technology's abuses
-- ​managing a shared library of resources, job postings, and technology
-- archiving important material and evidence for later use by researchers
+### 1. Confidentiality
+All forum and Signal chat communications are confidential. Do not share content, messages, or user data outside without explicit consent from everyone involved.
 
-A selection of accomplishments:
-- Dozens of successful takedown requests of non consensual imagery operations
-- Assistance to sex workers on the protection of their copyrighted material
-- Security incident response to dozens of severe abuse cases
-- Technical subject matter expertise supporting the NYC Cyber Abuse Taskforce
-- The development of the Non-Consensual Imagery Database (NCIDB)
-- Research and monitoring into distribution sites and forums
-- The development of [chanscan](https://chanscan.com), a tool for understanding toxic internet culture
-- The development of submit.policetapes.live, which has archived thousands of videos documenting police brutality around the USA
-- Creation of our VPN services, which have protected:
-  - activists and journalists through the summer of 2020
-  - protestors in Cuba
-  - protestors in Venezuela
-- Distribution of thousands of PPE kits during NYC protests in 2020
-- Secure communications assistance for 5 major protest organizers in NYC
-- ​Press coverage:
-  - PimEyes (Washington Post)
-  - Clearview AI (NYTimes, Gizmodo)
-  - Phunware (Vice News)
-  - Tinder photo market place (Gizmodo)
-- ​	Selection of Acknowledgements, Conferences and Speaking Engagements of Cabal Members
-  - Binary Golf Grand Prix 2023
-  - Objective by the Sea 2023
-  - Defcon (31, 30, 29)
-  - Hushcon (2023, 2022)
-  - REcon (2023, 2022)
-  - SkyTalks 2022 @ DEFCON 30
-  - PancakesCon 2021
-  - Summercon (2022, 2021, 2020, 2019)
-  - Diana Initiative
-  - 2600 Magazine
+### 2. No exfiltration
+Do not scrape, bulk-download, or copy private discussions to share elsewhere. Violations may result in immediate removal from the community.
+
+### 3. Protect member identity
+Respect each member’s privacy, including the fact of their membership. Only individuals themselves may share their affiliation outside the group. In public or external contexts, real usernames are replaced by tripcodes. Never reveal another member’s identity, username, or any personal details beyond our community without their clear, explicit consent.
+
+### 6. Post in good faith
+- **Link posts** should point to substantive, relevant content. Strip tracking parameters (the site does this automatically, but be mindful of what you share).
+- **Text posts** should contribute meaningfully: ask genuine questions, share knowledge, or start worthwhile discussions.
+- **Comments** should add to the conversation. Avoid low-effort replies, personal attacks, or pile-ons.
+
+### 7. Respect the invitation system
+Invitations are earned through clout (on-site reputation gained from upvotes and engagement). Do not share invite links publicly or sell access. Each invitation goes through a 24-hour review period before acceptance. You are responsible for the people you invite.
+
+### 8. Use the reporting system
+If you see something that violates these rules or makes you uncomfortable:
+
+- Use the **report buttons** on posts, users, and communities.
+- Submit an anonymous report via the [tipline](/tipline).
+- Email [tipline@fightdystopia.net](mailto:tipline@fightdystopia.net) semi-anonymously.
+
+All reports are reviewed by the Safety Council and treated confidentially. Tipline reports use browser-derived tripcodes so moderators can correlate reports without knowing who filed them.
+
+## Joining the community
+
+1. Read this Articles of Agreement.
+2. Read the [About](/about) page to understand history and norms.
+3. Read the [Help](/help) page to learn how the site works.
+4. Fill out your [profile and settings](/settings): add contact details, PGP key, and SSH key.
+5. Post an [introduction](/t/introductions) so others can get to know you.
+6. Join the [Signal chats](/signal) for real-time conversation.
+
+## In summary
+
+Be thoughtful. Be kind. Protect each other's privacy. Share things worth reading. Keep the trust chain strong. If something feels wrong, report it. This community exists because every member chose to make it worth being part of.
