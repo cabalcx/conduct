@@ -21,6 +21,7 @@ This document governs all Cabal activities: the Fight Dystopia forum (fightdysto
 - **Invitation means accountability**: Every member was invited by an existing member. Your inviter vouches for you; you vouch for those you invite. Ban records are tracked against inviters.
 
 - **Transparent governance**: All moderator actions (bans, suspensions, content removals, tag changes) are logged publicly.
+- **Members hold members accountable**: We expect people to call out insensitive behavior directly in chat or DM. This is an act of solidarity, not aggression. Short-term suspensions (24-72 hours) may be issued for persistent insensitivity after warning.
 
 ## Rules of the Road
 
@@ -47,6 +48,8 @@ If you see something that violates these rules or makes you uncomfortable:
 - Use the **report buttons** on posts, users, and communities.
 - Submit an anonymous report via the [tipline](/tipline).
 - Email [tipline@fightdystopia.net](mailto:tipline@fightdystopia.net) semi-anonymously.
+
+**Prefer direct accountability first**: if someone is being insensitive, call them out directly in chat or DM. This is the preferred and encouraged first step—members should not feel hesitation about holding each other accountable toward kindness and respect. Only escalate to moderators when direct accountability fails or when behavior is severe.
 
 All reports are reviewed by the Safety Council and treated confidentially. Tipline reports use browser-derived tripcodes so moderators can correlate reports without knowing who filed them.
 
